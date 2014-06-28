@@ -1,0 +1,10 @@
+# Site settings
+title: Blarg
+email: patthropus@gmail.com
+description: "Just some bullshit for now."
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
