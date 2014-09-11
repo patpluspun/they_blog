@@ -1,9 +1,9 @@
 # Site settings
-title: Blarg
+title: Words, letters, and punctuation
 email: patthropus@gmail.com
-description: "Just some bullshit for now."
-baseurl: ""
-url: "http://yourdomain.com"
+description: "."
+baseurl: "http://blog.theystudios.org/"
+url: "http://blog.theystudios.org"
 
 # Build settings
 markdown: redcarpet
