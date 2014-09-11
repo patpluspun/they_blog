@@ -8,11 +8,11 @@ Pay no attention to the man behind the curtain
 
 His are words of which none can be certain
 
-All written in riddles and rhymes and curses
+All written in riddles and disjointed curses
 
-Appropriate feelings for such cynical verses
+Appropriate feelings for cynical verses
 
 Expression a sin, absolution in light
 
-Whatever makes a lonely soul feel right
+Whatever can make a lonely soul feel right
 
