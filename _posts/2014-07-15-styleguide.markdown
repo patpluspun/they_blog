@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Just Another Post"
+title:  "Styleguide"
 date:   2014-07-15 23:01:48
-categories: haha
+categories: nothingtoseehere
 ---
-
-Gonna test out markdown stuff.
 
 # This should be an h1
 
@@ -17,9 +15,9 @@ Gonna test out markdown stuff.
 
 **This should be strong**
 
-''This should be italic''
+//This should be italic//
 
-`this should delineate code`
+`this should preformat`
 
 [This should be a link](http://www.google.com)
 
@@ -36,6 +34,8 @@ foreach ($array as $arr) {
 ```
 
 ~~GFH isn't supported for jekyll Strikethrough text~~
+
+Gotta work on tables too
 
 Table Header 1 | Table Header 2
 ---------------|---------------
